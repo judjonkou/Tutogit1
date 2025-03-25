@@ -1,2 +1,2 @@
 # Tutogit1
-comment verioner un Projet
+comment versioner un Projet
